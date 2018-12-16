@@ -4,4 +4,4 @@
 3 add girl
 4 add one word to master
 5 add one word
-6 pg add
+6 pm add
